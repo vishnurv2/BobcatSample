@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "LambdaTest.LambdaSample.WikipediaTest",
+    "children" : [ {
+      "name" : "wikipediaSearchTest()",
+      "uid" : "47d3829accd0e5ab",
+      "parentUid" : "e3a0b83beae6b9d6c418c26f9bf05d5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623098045791,
+        "stop" : 1623098060037,
+        "duration" : 14246
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e3a0b83beae6b9d6c418c26f9bf05d5c"
+  } ]
+}

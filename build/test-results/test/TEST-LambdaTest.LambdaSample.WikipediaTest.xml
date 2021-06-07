@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LambdaTest.LambdaSample.WikipediaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-07T20:34:05" hostname="DESKTOP-LJ1ID1U" time="14.508">
+  <properties/>
+  <testcase name="wikipediaSearchTest()" classname="LambdaTest.LambdaSample.WikipediaTest" time="14.508"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jun 08, 2021 2:04:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

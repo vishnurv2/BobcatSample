@@ -1,0 +1,5 @@
+
+Update your USERNAME and ACCESS_KEY in the Hub URL at ..\src\main\resources\config.yaml
+
+
+Running the test : gradlew clean test

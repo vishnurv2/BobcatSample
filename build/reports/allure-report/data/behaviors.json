@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "wikipediaSearchTest()",
+    "uid" : "47d3829accd0e5ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1623098045791,
+      "stop" : 1623098060037,
+      "duration" : 14246
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

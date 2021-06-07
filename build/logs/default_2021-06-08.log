@@ -1,0 +1,2 @@
+02:03:57.968 INFO  com.cognifide.qa.bb.provider.selenium.webdriver.creators.RemoteDriverCreator:50 - Starting the initialization of 'remote' WebDriver instance
+02:03:57.979 DEBUG com.cognifide.qa.bb.provider.selenium.webdriver.creators.RemoteDriverCreator:51 - Initializing WebDriver with following capabilities: Capabilities {browserName: Chrome, build: Bobcat Example, console: true, name: Bobcat Example, network: true, platform: WINDOWS, recordVideo: true, visual: true}

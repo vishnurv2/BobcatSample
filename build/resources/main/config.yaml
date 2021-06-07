@@ -1,0 +1,15 @@
+default:
+
+  properties:
+    webdriver.type: remote
+    webdriver.url: http://vishnukdas:D3tRgjqJOrG7GKCmdIkafAP7uUbPfiK3SaWXTWdjX3vhglk2yd@hub.lambdatest.com:80/wd/hub
+    webdriver.cap.platform: Windows
+    webdriver.cap.browserName: Chrome
+    webdriver.cap.recordVideo: true
+    webdriver.cap.name: Bobcat Example
+    webdriver.cap.build: Bobcat Example
+    webdriver.cap.visual: true
+    webdriver.cap.network: true
+    webdriver.cap.console: true
+
+

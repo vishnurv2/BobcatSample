@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "LambdaTest.LambdaSample.WikipediaTest",
+    "children" : [ {
+      "name" : "wikipediaSearchTest()",
+      "uid" : "47d3829accd0e5ab",
+      "parentUid" : "4bf53a99984427b25ea3b2f5fbba2753",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623098045791,
+        "stop" : 1623098060037,
+        "duration" : 14246
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "LambdaTest.LambdaSample.WikipediaTest"
+  } ]
+}
