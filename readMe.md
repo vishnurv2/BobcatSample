@@ -1,3 +1,5 @@
+Recommended IDE : InTelliJ IDEA
+
 Bobcat is framework dedicated to automated functional testing of web applications. It wraps Selenium, so anything possible in raw Selenium can be done with Bobcat. In this guide we will use Bobcat along with the Selenium Webdriver and the Java programming language.
 
 
