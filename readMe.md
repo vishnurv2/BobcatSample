@@ -13,6 +13,6 @@ Edit file ../src/main/resources/config.yaml with your USERNAME and ACCESS_KEY:
 
 ![image](https://user-images.githubusercontent.com/31619747/121085786-ec4d2a00-c7ff-11eb-9665-3f8c7bf00317.png)
 
-Run the default test included using the command:
+Run the default test using the command:
 
 gradlew clean test 
