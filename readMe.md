@@ -1,5 +1,18 @@
 IDE : InTelliJ IDEA
 
+This sample is using bobcat-junit5 that is the default and recommended template
+
+Other templates are : 
+
+1. bobcat-bdd
+
+2. bobcat-aem-junit
+
+3. bobcat-aem-bdd
+
+4. bobcat-appium
+
+
 Bobcat is framework dedicated to automated functional testing of web applications. It wraps Selenium, so anything possible in raw Selenium can be done with Bobcat. In this guide we will use Bobcat along with the Selenium Webdriver and the Java programming language.
 
 
